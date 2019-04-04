@@ -210,7 +210,7 @@ exciting digital quiz made possible with the help of Kahoot, use your smartphone
 
 Entry fee: Rs 150
 
-Team size: Individual
+Team size: 2 members
 
 Requirements: 
 
@@ -232,13 +232,6 @@ Prizes
 • Every participant will be given a participation certificate.
 
 • Winners will be awarded with cash prize and certificate.
-
-
-
-
-
-
-
 
 
 `,
