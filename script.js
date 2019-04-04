@@ -286,7 +286,7 @@ Winner : Cash prize + Certificate
 Participants : Certificate
 
 `,
-11: `
+10: `
 Here is an amazing opportunity to showcase your ideas on a unique and massive platform in the form of a well integrated and intriguing presentation. It strives to explore the inquisitiveness of young minds by giving their incredulous ideas a definitive direction. You can showcase your presentation & explanation skills in front of an audience. Points will be allotted on the content, body language, language and vocabulary used, powerpoint presentation and interaction with the crowd. The winner will be awarded the Certificate and Cash Prize. The Abstract should be mailed to techmindz.bca@gmail.com with the Title as the subject. with the PR desk, The candidates will have to present their paper during Techmindz IT FIESTA in front of a judge’s panel.
  
 The rules of the event are as follows:
