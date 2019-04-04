@@ -1,6 +1,9 @@
 var info  = {
 1: `
-IT MANAGER
+
+IMPRESERIO
+
+( IT MANAGER )
 
 About the event: 
 Aim: It is to identify student with the traits of a good manager, 
@@ -42,7 +45,9 @@ Participants - Certificate
 `,
 
 2:`
+
 POLAROID
+
 (Photography)
  
 Photography isnt just a hobby or passion. Its an art of  creating mesmerizing  pictures through one's own vision. 
@@ -74,25 +79,38 @@ and all the other participants shall get participation certificates.
 `,
 
 3:`
+
 GEEK SPEAK
-(Pick and speak)-
+
+(Pick and speak)
+
 Impromptu or extempore speaking is an exercise to test your ability to speak on any topic. It is considered one of the highest forms of public speaking ability as you are expected to entertain an audience with minimal preparation.
 This helps the speaker's ability to communicate easily to the listener or second person, and it has a vital role for language development, such as uttering syllabic sounds.The speaker is most commonly provided with their topic in the form of a quotation, 
 but the topic may also be presented as an object, proverb, one-word abstract, or one of the many alternative possibilities.
 
 RULES
+
 • Each participant will be given a time limit of 3mins for preparation on the topic they have picked and 3mins to speak.
+
 • No exceeding of time limit, every participant will be alerted once there time limit ends.
 
 Prizes
+
 • Every participant will be given a participation certificate.
+
 • Winners will be awarded with cash prize and certificate.
+
+
+
+
 
 
 `,
 
 4: `
+
 SNOWFLAKES
+
 (TIK TOK)
 
 Who doesn't love drama?
@@ -117,7 +135,10 @@ The rest of the participants will get the participation certificates.
 
 `,
 5: `
+
 RESPAWN
+
+( Gaming )
 
 Welcome to the world of gaming. Here it's all about skill and thrill. You either win or lose,survive or die, if succeeded you  dominate and fly.
 
@@ -175,7 +196,11 @@ all the reason shall get the participation certificates
 
 `,
 6: `
-BEG BORROW 
+
+Jugaad
+
+( BEG BORROW )
+
 Get ready to put all your resources and contacts to a test to fetch the most radical and extraordinary things in this epic race. 
 In this game show you can win money by begging or borrowing . Participants will be given a list of things that they have to fetch within a time span. 
 Everything is fair in this war. 'Jugaad' is the key word. For once, you won't be ostracized for begging or despised for borrowing. 
@@ -237,9 +262,10 @@ Prizes
 `,
 
 8: `
+
 CodeMantra
 
-( Coding & Design )
+( CODING & DESIGN )
 
 Put your creative and logical skills to test with the coding & design challenge.
 
@@ -262,10 +288,19 @@ Prizes
 • Winners will be awarded with cash prize and certificate.
 
 
+
+
+
+
+
 `,
 
 9: `
-DIG THE RIG – IT TREASURE HUNT
+
+DIG THE RIG
+
+( IT TREASURE HUNT )
+
 An Event were participants find for hidden clues by applying their technical skills in order to win the ultimate prize i.e TREASURE
 Clue Categories:
 Here is a brief list of different types of puzzles and clues to get the creative juices flowing:
@@ -274,19 +309,31 @@ Ciphers—Ciphers add a puzzling twist to any message. Read up on substitution c
 QR Stuff—QR codes
 
 Rules and Regulations:
+
 1.Team size-2.
+
 2.Time limit.
+
 3.Team member must be together during the game.
+
 4.Make sure you have all the clues at the end.
+
 5.In exceptional cases organizer decision will be final.
 
 Prizes:
+
 Winner : Cash prize + Certificate
 1st runner up : Cash prize + Certificate
 Participants : Certificate
 
+
 `,
 10: `
+
+MyInk
+
+( PAPER PRESENTATION )
+
 Here is an amazing opportunity to showcase your ideas on a unique and massive platform in the form of a well integrated and intriguing presentation. It strives to explore the inquisitiveness of young minds by giving their incredulous ideas a definitive direction. You can showcase your presentation & explanation skills in front of an audience. Points will be allotted on the content, body language, language and vocabulary used, powerpoint presentation and interaction with the crowd. The winner will be awarded the Certificate and Cash Prize. The Abstract should be mailed to techmindz.bca@gmail.com with the Title as the subject. with the PR desk, The candidates will have to present their paper during Techmindz IT FIESTA in front of a judge’s panel.
  
 The rules of the event are as follows:
