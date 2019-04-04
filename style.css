@@ -196,6 +196,14 @@ section {
     margin: 10px;
 }
 
+#overlay p {
+    color: #fff;
+    font-size: 105%;
+    position: relative;
+    left: 13%;
+    top: 5%;
+}
+
 
 #five p {
     display: block;
@@ -307,6 +315,15 @@ footer a {
         height: 80vh;
     }
 
+    
+    #overlay p {
+        display: block;
+        margin: 0 auto;
+        margin-top: 5px;
+        text-align: center;
+        position: static;
+        left: auto;
+    }
 
     #overlay img {
         float: none;
