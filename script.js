@@ -200,9 +200,76 @@ Winner : Cash prize + Certificate
 1st runner up : Cash prize + Certificate
 Participants : Certificate`,
 
-7: "IT QUIZ",
+7: `
+NeuralStorm
 
-8: "Code and Design",
+( IT QUIZ )
+
+Experience a quiz like never before, with the modern era gone are the days of pen and paper, introducing 
+exciting digital quiz made possible with the help of Kahoot, use your smartphones and compete realtime with the challengers.
+
+Entry fee: Rs 150
+
+Team size: Individual
+
+Requirements: 
+
+• Smartphone (updated chrome preferred)
+
+• Active internet connection
+
+
+Rounds
+
+1. Elimination - Digital quiz with a variety of questions from anything related to tech
+
+2. Challenge the heat - Be prepared to face increased diffculty and twisted questions 
+
+3. Traditional Twist - Psst, not giving any hints!
+
+Prizes
+
+• Every participant will be given a participation certificate.
+
+• Winners will be awarded with cash prize and certificate.
+
+
+
+
+
+
+
+
+
+`,
+
+8: `
+CodeMantra
+
+( Coding & Design )
+
+Put your creative and logical skills to test with the coding & design challenge.
+
+Entry fee: Rs 150
+
+Team size: max 2 members
+
+Rounds
+
+1. Speed coding (Elimination) - Prove your programming ability and typing speed at the same time.
+
+2. UI Design - Debug simple web pages and finish an incomplete template.
+
+3. Learn & Run (Final) - Select from a list of new languages, use the documentation to finish the tasks.
+
+Prizes
+
+• Every participant will be given a participation certificate.
+
+• Winners will be awarded with cash prize and certificate.
+
+
+`,
 
 9: `
 DIG THE RIG – IT TREASURE HUNT
@@ -226,8 +293,6 @@ Winner : Cash prize + Certificate
 Participants : Certificate
 
 `
-
-
 };
 
 function on(n) {
