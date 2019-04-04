@@ -285,6 +285,31 @@ Winner : Cash prize + Certificate
 1st runner up : Cash prize + Certificate
 Participants : Certificate
 
+`,
+11: `
+Here is an amazing opportunity to showcase your ideas on a unique and massive platform in the form of a well integrated and intriguing presentation. It strives to explore the inquisitiveness of young minds by giving their incredulous ideas a definitive direction. You can showcase your presentation & explanation skills in front of an audience. Points will be allotted on the content, body language, language and vocabulary used, powerpoint presentation and interaction with the crowd. The winner will be awarded the Certificate and Cash Prize. The Abstract should be mailed to techmindz.bca@gmail.com with the Title as the subject. with the PR desk, The candidates will have to present their paper during Techmindz IT FIESTA in front of a judge’s panel.
+ 
+The rules of the event are as follows:
+
+• The abstract should be minimum of two pages. 
+• The paper should strictly follow standard IEEE two-column format (The format can be downloaded from the internet).
+• The paper should be in PDF format, readable in Adobe Acrobat reader.
+• A team should consist of a maximum of 2 members.
+• Citing the references is MANDATORY
+• Name of the corresponding authors should be mentioned along with an e-mail ID. 
+• Discipline of the paper should be mentioned in the subject column. 
+• Only participants who will send their abstracts by mail shall be eligible for the presentation.
+• The abstract should be mailed to techmindz.bca@gmail.com
+• No of slides- 10(min) 
+• Duration of presentation: 10mins
+
+Dates to remember
+
+* Abstract submission- 06/04/2019
+* Full paper submission- 09/04/2019
+* Presentation Date- 11/04/2019
+
+
 `
 };
 
