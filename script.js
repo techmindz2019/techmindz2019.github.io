@@ -144,7 +144,7 @@ Duet - ₹100
 Rules:
 
 • team size :  1(solo ) , 2(group).
-• Language-Kannada /hindi. (Participants choice)
+• Language-Kannada, Hindi & English (Participants choice)
 • A dialogue/audio clip will be given to each of the participants.
 • Then they have to prepare and record a tiktok video on the same within 20 minutes.
 • Winner will be declared  based on lip sync , expression,  confidence,boldness and overall performance.  
