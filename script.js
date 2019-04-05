@@ -6,19 +6,20 @@ IMPRESERIO
 ( IT MANAGER )
 
 About the event: 
-Aim: It is to identify student with the traits of a good manager, 
+Aim: It is to identify student with the traits of a good manager and 
 to find out that how he or she demonstrates the skills, knowledge, 
-and talents of a good manager, it further tests him how he uses the strategies to solve the problem. 
+and talents of a good manager. It further tests him how he uses the strategies to solve the problem. 
 
 ROUNDS DESCRIPTION: 
+
 ROUND A: 
-*case study
-*Numerical and reasoning
-*rapid fire round
+* case study
+* Numerical and reasoning
+* rapid fire round
 
 ROUND B: 
-*group discussion
-*panel interview
+* group discussion
+* panel interview
 
 RULES: 
 CASE STUDY: Participants will be given time of 20 minutes to go through the case and 30 minutes time to prepare the presentation with 150 words. Presentation time will be 6 to 8 mins. 
@@ -57,16 +58,25 @@ Do you have what it takes to be that photographer who can outstand the rest ?
 Here's your chance to show your unique talent on a big platform.    
 
 RULES:
+
 • A team will comprise of only one participant ,meaning it is a solo competition.
-• Mobile  and DSLR photography both are allowed
-and will be judged separately.
+
+• Mobile  and DSLR photography both are allowed and will be judged separately.
+
 • The theme will be announced on spot on the event day.
+
 • A maximum of 2 hours  will be given and the participants should go around the campus and click pictures related to the given theme.
+
 • The images  should be submitted within the given time .Late entries are not allowed and thus those participants shall be disqualified. 
+
 • No photoshopping no adding of after effects .
+
 • Only basic editing is allowed (lighting,contrast,color) 
+
 • No water mark to be added.
+
 • Image should be of good quality.(minimum 3.2mp)
+
 • The photographs are judged based on relevance to the theme, the creativity, the uniqueness (unique angles), the professional appeal that the image carries.
 
 PRIZES:
@@ -92,7 +102,7 @@ RULES
 
 • Each participant will be given a time limit of 3mins for preparation on the topic they have picked and 3mins to speak.
 
-• No exceeding of time limit, every participant will be alerted once there time limit ends.
+• No exceeding of time limit, every participant will be alerted once there time limit ends. 
 
 Prizes
 
@@ -114,7 +124,7 @@ SNOWFLAKES
 (TIK TOK)
 
 Who doesn't love drama?
- Yeah we all love it and that one platform we got to show it is Tik Tok. But hey let it not just be there for entertainment or as a hobby. Your acting skills can actually earn you real money and fame.
+Yeah we all love it and that one platform we got to show it is Tik Tok. But hey let it not just be there for entertainment or as a hobby. Your acting skills can actually earn you real money and fame.
 So Here's an opportunity to showcase your acting and expression skills .
 Bring out the madhuri dixit /amitabh Bacchan in you and
 flaunt it like the hero of KGF and your favorite heroine too.  
@@ -122,15 +132,19 @@ Get your chance to be the acting star of acharya.
 so register today.
 
 Rules:
+
 • team size :  1(solo ) , 2(group).
-•Language-Kannada /hindi. (Participants choice)
-•A dialogue/audio clip will be given to each of the participants.
-•Then they have to prepare and record a tiktok video on the same within 20 minutes.
-•Winner will be declared  based on lip sync , expression,  confidence,boldness and overall performance.  
+• Language-Kannada /hindi. (Participants choice)
+• A dialogue/audio clip will be given to each of the participants.
+• Then they have to prepare and record a tiktok video on the same within 20 minutes.
+• Winner will be declared  based on lip sync , expression,  confidence,boldness and overall performance.  
 
 Prizes:
+
 Solo winner : Cash prize+Certificates.
+
 group winner: Cash prize+certificates.
+
 The rest of the participants will get the participation certificates.
 
 `,
@@ -335,8 +349,21 @@ MyInk
 ( PAPER PRESENTATION )
 
 Here is an amazing opportunity to showcase your ideas on a unique and massive platform in the form of a well integrated and intriguing presentation. It strives to explore the inquisitiveness of young minds by giving their incredulous ideas a definitive direction. You can showcase your presentation & explanation skills in front of an audience. Points will be allotted on the content, body language, language and vocabulary used, powerpoint presentation and interaction with the crowd. The winner will be awarded the Certificate and Cash Prize. The Abstract should be mailed to techmindz.bca@gmail.com with the Title as the subject. with the PR desk, The candidates will have to present their paper during Techmindz IT FIESTA in front of a judge’s panel.
+
+The topics that could be considered are: 
+
+• Ubiquitous Computing
+• Artificial Intelligence
+• Big data
+• IOT
+• Automatic Computing
+• Wearable Computing
+• Cloud Computing
+• Cyber crime and security
+• Robotics
+• Neurel network and applications
  
-The rules of the event are as follows:
+The rules of the event are as follows:-
 
 • The abstract should be minimum of two pages. 
 • The paper should strictly follow standard IEEE two-column format (The format can be downloaded from the internet).
@@ -356,7 +383,7 @@ Dates to remember
 * Full paper submission- 09/04/2019
 * Presentation Date- 11/04/2019
 
-
+IMPORTANT: ISBN will not be provided
 `
 };
 
