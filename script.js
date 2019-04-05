@@ -55,7 +55,12 @@ Photography isnt just a hobby or passion. Its an art of  creating mesmerizing  p
 Photography is a way of showing the hidden beauty of life on this earth. Be it nature, wildlife, humanity, technology, you name it.
 So are you ready to showcase your skills ? 
 Do you have what it takes to be that photographer who can outstand the rest ? 
-Here's your chance to show your unique talent on a big platform.    
+Here's your chance to show your unique talent on a big platform.   
+
+
+Registration Fee:
+Mobile - ₹50
+DSLR - ₹100
 
 RULES:
 
@@ -83,6 +88,7 @@ PRIZES:
 
 Mobile photography: 
 winner: Cash prize+certificate
+
 DSLR photography:
 winner: Cash prize+certifcate
 and all the other participants shall get participation certificates.
@@ -131,6 +137,10 @@ flaunt it like the hero of KGF and your favorite heroine too.
 Get your chance to be the acting star of acharya.
 so register today.
 
+Registration Fee:
+Solo - ₹50
+Duet - ₹100
+
 Rules:
 
 • team size :  1(solo ) , 2(group).
@@ -161,13 +171,13 @@ Are you a battle royale pro player on mobile. Have you got the courage to domina
 
 RULES: 
 • Compete for either solo or squad competition.
-• SOLO: Entry fee-100 rs.
+• SOLO: Entry ₹100.
 • Should have your own mobile with internet connection. 
 • Only one round to be played .
 • The survivor and winner takes it all.
 • Triggers/clawholds are not allowed.     
  
-• SQUAD:Entry fee-300rs per squad.
+• SQUAD:Entry fee ₹300 per squad.
 • Should have your own mobile with internet connection. 
 • Full squad to be present in the play area. 
 • Only one round to be played .
@@ -179,7 +189,7 @@ NFS most wanted.
 Get your cars and NOS ready to burn some rubber and tear the road apart.
 
 RULES:
-• Solo only. entry fee-100rs
+• Solo only. entry fee ₹100
 • A maximum of 4 players will be made to race together through LAN      .
 • The winner of that round advances to the finals.    
 • The event , cars , tracks shall be selected by the organisers.
@@ -189,7 +199,7 @@ FIFA:
 Do you have the skills to beat your opponent and score 5 goals ? you wanna show off your fifa skills  and your love for football ? here's a chance to actually play your game and win some cash.
 
 RULES :
-Solo entry - 100rs
+Solo entry - ₹100
 • Two participants are made to play opposite to each other the winner advances to the next  round.
 • No rules just play your game.
 • Maximum of 4 rounds will be played.
@@ -247,7 +257,7 @@ NeuralStorm
 Experience a quiz like never before, with the modern era gone are the days of pen and paper, introducing 
 exciting digital quiz made possible with the help of Kahoot, use your smartphones and compete realtime with the challengers.
 
-Entry fee: Rs 150
+Entry fee: ₹150
 
 Team size: 2 members
 
@@ -283,7 +293,7 @@ CodeMantra
 
 Put your creative and logical skills to test with the coding & design challenge.
 
-Entry fee: Rs 150
+Entry fee: ₹150
 
 Team size: max 2 members
 
