@@ -823,4 +823,7 @@ h1{
 	background-image:url('/images/8.jpeg');
 }
  
+.slide:nth-child(8){
+	background-image:url('/images/9.jpeg');
+}
  
