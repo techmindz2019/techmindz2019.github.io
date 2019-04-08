@@ -879,3 +879,4 @@ var args = {
 };
 
 $('.carousel').Zippy(args);
+window.addEventListener('hashchange', off, false);
