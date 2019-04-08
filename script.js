@@ -311,7 +311,7 @@ Rounds
 
 2. UI Design - Debug simple web pages and finish an incomplete template.
 
-3. Learn & Run (Final) - Select from a list of new languages, use the documentation to finish the tasks.
+3. Code Roulette (Final) - Select from a list of new languages, use the documentation to finish the tasks.
 
 Prizes
 
