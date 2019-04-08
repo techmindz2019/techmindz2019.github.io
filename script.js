@@ -237,8 +237,10 @@ Everything is fair in this war. 'Jugaad' is the key word. For once, you won't be
 The team which earns the maximum points in the least time will be declared winners. It's time to put on your shoes, fasten your belts, 
 spruce up your imagination and put all your resources to fetch the most radical things. For once in a lifetime you won't be eschewed for begging or despised for borrowing. 
 So get ready to have some real fun.
- 
 
+Registration Fee:
+₹150 (team of two)
+ 
 RULES
 
 A Team will comprise of 2 players
@@ -338,6 +340,9 @@ Crosswords, Word finds and Cryptocodes. Don’t sweat making your own!!! Interne
 Ciphers—Ciphers add a puzzling twist to any message. Read up on substitution ciphers,  transposition ciphers, 
 QR Stuff—QR codes
 
+Registration Fee:
+₹150 (team of two)
+
 Rules and Regulations:
 
 1.Team size-2.
@@ -393,10 +398,11 @@ The rules of the event are as follows:-
 • No of slides- 10(min) 
 • Duration of presentation: 10mins
 
+Registration Fee:
+₹150 (team of two)
+
 Dates to remember
 
-* Abstract submission- 06/04/2019
-* Full paper submission- 09/04/2019
 * Presentation Date- 11/04/2019
 
 IMPORTANT: ISBN will not be provided
