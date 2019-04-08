@@ -21,6 +21,9 @@ ROUND B:
 * group discussion
 * panel interview
 
+Registration Fee:
+₹150 (team of two)
+
 RULES: 
 CASE STUDY: Participants will be given time of 20 minutes to go through the case and 30 minutes time to prepare the presentation with 150 words. Presentation time will be 6 to 8 mins. 
 
@@ -103,6 +106,9 @@ GEEK SPEAK
 Impromptu or extempore speaking is an exercise to test your ability to speak on any topic. It is considered one of the highest forms of public speaking ability as you are expected to entertain an audience with minimal preparation.
 This helps the speaker's ability to communicate easily to the listener or second person, and it has a vital role for language development, such as uttering syllabic sounds.The speaker is most commonly provided with their topic in the form of a quotation, 
 but the topic may also be presented as an object, proverb, one-word abstract, or one of the many alternative possibilities.
+
+Registration Fee:
+₹50
 
 RULES
 
