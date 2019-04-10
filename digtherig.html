@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>🔒</title>
+    <style>
+        * {
+            background: #000;
+            text-align: center;
+        }
+
+        input {
+            padding: 10px;
+            border: none;
+            margin-top: 200px;
+            width: 90%;
+            font-size: 190%;
+            color: rgb(43, 255, 43);
+            letter-spacing: 4px;
+        }
+
+        *:focus{
+            outline: none;
+        }
+
+        button {
+            margin-top: 50px;
+            color: aliceblue;
+            border: none;
+            font-size: 105%;
+            padding: 20px;
+            width: 40%;
+        }
+
+        button:hover {
+            color: #000;
+            background: #fff;
+        }
+
+        #s {
+            width: 60%;
+            margin-top: 60px;
+        }
+    </style>
+    <script src="/sjcl.js"></script>
+</head>
+<body>
+    <div id="box">
+        <input placeholder="Enter secret code" id="key"><br>
+        <button onclick="show();">hack</button>
+    </div>
+    <img id="s" src="">
+</body>
+    <script>
+        var show = () => {
+            var key = document.querySelector('#key').value;
+            // alert(key);
+            try{
+                i = sjcl.decrypt(key, `{"iv":"nNvZFIlbKZrSmLjfqlX3MQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"lgdh8/GCQco=","ct":"Fl2QDBYBG+XFTJnCjYKU4xlgtqefvcn5U64="}`)
+                document.querySelector("#box").innerHTML = "";
+                document.querySelector("#s").src = i;
+            } catch {
+                alert("try again 😛");
+            }
+        }
+    </script>
+</html>
